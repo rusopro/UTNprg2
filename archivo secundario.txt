@@ -2,3 +2,4 @@ esta es la prueba de archivo
 esta es la segunda linea del archivo
 test2
 test4
+clase github
